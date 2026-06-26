@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "language": "DE"
+  },
+  "hero": {
+    "headline": "We Electrify the Future of Rail",
+    "subline": "Planning and construction of overhead line systems – reliable, certified, forward-looking.",
+    "cta_services": "Our Services",
+    "cta_contact": "Get in Touch"
+  },
+  "stats": {
+    "title1": "PQ Certificates",
+    "value1": "2",
+    "title2": "Voltage",
+    "value2": "15 kV",
+    "title3": "Location",
+    "value3": "Berlin"
+  },
+  "services_overview": {
+    "title": "Our Services",
+    "subtitle": "Specialised in the electrotechnical infrastructure of rail",
+    "planning_title": "Planning",
+    "planning_desc": "Expert planning of 15 kV standard overhead line systems in accordance with DB guidelines and current standards.",
+    "erection_title": "Construction",
+    "erection_desc": "Professional construction of overhead line systems – on time, compliant with standards, safety-conscious.",
+    "cooperation_title": "Cooperation",
+    "cooperation_desc": "Flexible engagement as an independent contractor, consortium partner, or subcontractor.",
+    "learn_more": "Learn more"
+  },
+  "certificates": {
+    "title": "Prequalification",
+    "subtitle": "Our PQ certificates confirm our qualification for public Deutsche Bahn tenders.",
+    "cert1_title": "Planning 15 kV Standard Overhead Line Systems",
+    "cert1_number": "Reference No. 134749",
+    "cert2_title": "Overhead Line System Construction 15 kV",
+    "cert2_number": "Reference No. 134748",
+    "valid_until": "Valid until 16.06.2028",
+    "download": "Download Certificate"
+  },
+  "cooperation": {
+    "title": "Cooperation Models",
+    "subtitle": "We work flexibly – adapted to the requirements of each project.",
+    "independent_title": "Independent Participation",
+    "independent_desc": "We take full responsibility for complex projects in railway electrification – from planning through to acceptance.",
+    "consortium_title": "Consortia",
+    "consortium_desc": "For large-scale projects, we act as a reliable consortium partner, bringing our specialist expertise to the table.",
+    "sub_title": "Subcontractor",
+    "sub_desc": "As a specialised subcontractor, we deliver precise partial services within larger supply chains."
+  },
+  "cta_banner": {
+    "quote": "Reliability, expertise and quality – these are the values our clients rely on.",
+    "button": "Get in Touch Now"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "PORR OLA GmbH – Your partner for overhead line systems",
+    "body": "PORR OLA GmbH is a specialised company in the field of railway electrification. With deep expertise in the planning and construction of 15 kV overhead line systems, we are a reliable partner for Deutsche Bahn and private clients.",
+    "directors": "Managing Directors",
+    "directors_names": "Siegfried Weindok & Łukasz Żurek",
+    "location": "Berlin, Germany",
+    "cooperation_title": "How we work"
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Specialised services in railway electrification",
+    "planning_title": "Planning of Overhead Line Systems",
+    "planning_body": "We plan 15 kV standard overhead line systems in accordance with the current Deutsche Bahn guidelines. Our planning services cover complete design and execution planning, taking into account all relevant technical and normative requirements. The quality of our planning services is confirmed by PQ certification (Reference No. 134749).",
+    "erection_title": "Construction of Overhead Line Systems",
+    "erection_body": "From the assembly of suspension and tensioning systems to final acceptance: we construct 15 kV overhead line systems on schedule and to the highest safety standards. Our certification (Reference No. 134748) demonstrates our proven competence to Deutsche Bahn.",
+    "cert_hint": "PQ Certified"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Reach out to us – we look forward to your enquiry.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Your message has been sent successfully. We will get back to you soon.",
+    "error": "An error occurred while sending. Please try again or write to us directly.",
+    "address_title": "Address",
+    "address": "Valeska-Gert-Straße 1\n10243 Berlin",
+    "email_label": "Email",
+    "email_value": "buero@porr-ola.com"
+  },
+  "footer": {
+    "tagline": "We electrify the future of rail.",
+    "nav_title": "Navigation",
+    "legal_title": "Legal",
+    "impressum": "Imprint",
+    "datenschutz": "Privacy Policy",
+    "rights": "All rights reserved."
+  },
+  "impressum": {
+    "title": "Imprint",
+    "company": "PORR OLA GmbH",
+    "address": "Valeska-Gert-Straße 1, 10243 Berlin",
+    "directors_label": "Managing Directors",
+    "directors": "Siegfried Weindok, Łukasz Żurek",
+    "register_label": "Registration Court",
+    "register": "Amtsgericht Berlin-Charlottenburg",
+    "hrb_label": "Commercial Register No.",
+    "hrb": "HRB 274511",
+    "ust_label": "VAT ID",
+    "ust": "DE455193863",
+    "email_label": "Email",
+    "email": "buero@porr-ola.com",
+    "liability_title": "Disclaimer",
+    "liability_content": "The contents of this website have been prepared with the utmost care. However, we cannot guarantee the accuracy, completeness or timeliness of the contents."
+  },
+  "datenschutz": {
+    "title": "Privacy Policy",
+    "intro": "The protection of your personal data is of particular concern to us. We therefore process your data exclusively on the basis of the statutory provisions (GDPR, TKG 2003).",
+    "responsible_title": "Controller",
+    "responsible_content": "PORR OLA GmbH, Valeska-Gert-Straße 1, 10243 Berlin, buero@porr-ola.com",
+    "data_title": "Collection and Processing of Data",
+    "data_content": "When you contact us via the contact form, your data is stored for the purpose of processing the enquiry. We do not pass this data on without your consent.",
+    "rights_title": "Your Rights",
+    "rights_content": "You have the right to information, rectification, erasure, restriction of processing and data portability. To exercise these rights, please contact buero@porr-ola.com.",
+    "more": "Further information on data protection can be found at: porr-group.com/customer_information"
+  }
+}

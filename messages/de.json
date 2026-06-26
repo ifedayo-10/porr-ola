@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "language": "EN"
+  },
+  "hero": {
+    "headline": "Wir elektrifizieren die Zukunft der Schiene",
+    "subline": "Planung und Errichtung von Oberleitungsanlagen – zuverlässig, zertifiziert, zukunftsorientiert.",
+    "cta_services": "Unsere Leistungen",
+    "cta_contact": "Kontakt aufnehmen"
+  },
+  "stats": {
+    "title1": "PQ-Zertifikate",
+    "value1": "2",
+    "title2": "Spannung",
+    "value2": "15 kV",
+    "title3": "Standort",
+    "value3": "Berlin"
+  },
+  "services_overview": {
+    "title": "Unsere Leistungen",
+    "subtitle": "Spezialisiert auf die elektrotechnische Infrastruktur der Bahn",
+    "planning_title": "Planung",
+    "planning_desc": "Fachgerechte Planung von 15-kV-Standard-Oberleitungsanlagen nach DB-Richtlinien und aktuellen Normen.",
+    "erection_title": "Errichtung",
+    "erection_desc": "Professionelle Errichtung von Oberleitungsanlagen – termingerecht, normgerecht, sicherheitsbewusst.",
+    "cooperation_title": "Kooperation",
+    "cooperation_desc": "Flexibel als eigenständiger Auftragnehmer, Konsortialpartner oder Subunternehmer tätig.",
+    "learn_more": "Mehr erfahren"
+  },
+  "certificates": {
+    "title": "Präqualifikation",
+    "subtitle": "Unsere PQ-Zertifikate bestätigen unsere Qualifikation für öffentliche Ausschreibungen der Deutschen Bahn.",
+    "cert1_title": "Planung 15-kV Standard Oberleitungsanlagen",
+    "cert1_number": "Vorgangsnummer 134749",
+    "cert2_title": "Oberleitungsanlage Errichtung 15 kV",
+    "cert2_number": "Vorgangsnummer 134748",
+    "valid_until": "Gültig bis 16.06.2028",
+    "download": "Zertifikat herunterladen"
+  },
+  "cooperation": {
+    "title": "Kooperationsmodelle",
+    "subtitle": "Wir arbeiten flexibel – angepasst an die Anforderungen jedes Projekts.",
+    "independent_title": "Eigenständige Teilnahme",
+    "independent_desc": "Wir übernehmen die volle Verantwortung für komplexe Projekte im Bereich der Bahnelektrifizierung – von der Planung bis zur Abnahme.",
+    "consortium_title": "Konsortien",
+    "consortium_desc": "Bei Großprojekten agieren wir als verlässlicher Konsortialpartner und bringen unsere Spezialkompetenz gezielt ein.",
+    "sub_title": "Subunternehmer",
+    "sub_desc": "Als spezialisierter Subunternehmer erbringen wir präzise Teilleistungen innerhalb größerer Lieferketten."
+  },
+  "cta_banner": {
+    "quote": "Zuverlässigkeit, Fachkompetenz und Qualität – das sind die Werte, auf die unsere Kunden bauen.",
+    "button": "Jetzt Kontakt aufnehmen"
+  },
+  "about": {
+    "title": "Über uns",
+    "subtitle": "PORR OLA GmbH – Ihr Partner für Oberleitungsanlagen",
+    "body": "Die PORR OLA GmbH ist ein spezialisiertes Unternehmen im Bereich der Bahnelektrifizierung. Mit fundierten Kompetenzen in Planung und Errichtung von 15-kV-Oberleitungsanlagen sind wir ein zuverlässiger Partner für die Deutsche Bahn und private Auftraggeber.",
+    "directors": "Geschäftsführung",
+    "directors_names": "Siegfried Weindok & Łukasz Żurek",
+    "location": "Berlin, Deutschland",
+    "cooperation_title": "Wie wir arbeiten"
+  },
+  "services": {
+    "title": "Leistungen",
+    "subtitle": "Spezialisierte Dienstleistungen in der Bahnelektrifizierung",
+    "planning_title": "Planung von Oberleitungsanlagen",
+    "planning_body": "Wir planen 15-kV-Standard-Oberleitungsanlagen nach den aktuellen Richtlinien der Deutschen Bahn. Unsere Planungsleistungen umfassen die vollständige Entwurfs- und Ausführungsplanung unter Berücksichtigung aller relevanten technischen und normativen Anforderungen. Die Qualität unserer Planungsleistungen ist durch die PQ-Zertifizierung (Vorgangsnummer 134749) bestätigt.",
+    "erection_title": "Errichtung von Oberleitungsanlagen",
+    "erection_body": "Von der Montage der Trag- und Spannwerke bis zur Abnahme: Wir errichten Oberleitungsanlagen mit 15-kV-Spannung termingerecht und nach höchsten Sicherheitsstandards. Unsere Zertifizierung (Vorgangsnummer 134748) belegt unsere nachgewiesene Kompetenz gegenüber der Deutschen Bahn.",
+    "cert_hint": "PQ-zertifiziert"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Sprechen Sie uns an – wir freuen uns auf Ihre Anfrage.",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "send": "Nachricht senden",
+    "sending": "Wird gesendet...",
+    "success": "Ihre Nachricht wurde erfolgreich gesendet. Wir melden uns bald bei Ihnen.",
+    "error": "Beim Senden ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder schreiben Sie uns direkt.",
+    "address_title": "Adresse",
+    "address": "Valeska-Gert-Straße 1\n10243 Berlin",
+    "email_label": "E-Mail",
+    "email_value": "buero@porr-ola.com"
+  },
+  "footer": {
+    "tagline": "Wir elektrifizieren die Zukunft der Schiene.",
+    "nav_title": "Navigation",
+    "legal_title": "Rechtliches",
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "impressum": {
+    "title": "Impressum",
+    "company": "PORR OLA GmbH",
+    "address": "Valeska-Gert-Straße 1, 10243 Berlin",
+    "directors_label": "Geschäftsführer",
+    "directors": "Siegfried Weindok, Łukasz Żurek",
+    "register_label": "Registergericht",
+    "register": "Amtsgericht Berlin-Charlottenburg",
+    "hrb_label": "Handelsregisternummer",
+    "hrb": "HRB 274511",
+    "ust_label": "USt-IdNr.",
+    "ust": "DE455193863",
+    "email_label": "E-Mail",
+    "email": "buero@porr-ola.com",
+    "liability_title": "Haftungsausschluss",
+    "liability_content": "Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen."
+  },
+  "datenschutz": {
+    "title": "Datenschutzerklärung",
+    "intro": "Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003).",
+    "responsible_title": "Verantwortlicher",
+    "responsible_content": "PORR OLA GmbH, Valeska-Gert-Straße 1, 10243 Berlin, buero@porr-ola.com",
+    "data_title": "Erhebung und Verarbeitung von Daten",
+    "data_content": "Wenn Sie uns über das Kontaktformular kontaktieren, werden Ihre Daten zum Zweck der Bearbeitung der Anfrage bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.",
+    "rights_title": "Ihre Rechte",
+    "rights_content": "Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung sowie Datenübertragbarkeit. Wenden Sie sich dazu an buero@porr-ola.com.",
+    "more": "Weitere Informationen zum Datenschutz finden Sie unter: porr-group.com/customer_information"
+  }
+}
