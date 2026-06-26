@@ -12,7 +12,7 @@ export default function Hero() {
       {/* Background */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://images.unsplash.com/photo-1474487548417-781cb6d646b3?w=1920&q=80"
+          src="/assets/hero-oberleitung.jpg"
           alt="Oberleitungsanlage Schiene"
           className="w-full h-full object-cover"
         />
