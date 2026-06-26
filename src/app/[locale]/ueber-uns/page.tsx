@@ -26,37 +26,28 @@ function AboutContent() {
 
       {/* About body */}
       <section className="py-24 bg-white">
-        <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
-          <div>
-            <p className="text-gray-600 text-lg leading-relaxed mb-8">{t("body")}</p>
-            <div className="flex flex-col gap-4">
-              <div className="flex items-start gap-4 p-4 bg-gray-50 rounded-xl">
-                <svg className="w-6 h-6 text-amber-400 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
-                </svg>
-                <div>
-                  <p className="text-xs text-gray-400 uppercase tracking-wide mb-1">{t("directors")}</p>
-                  <p className="font-semibold text-[#0a1628]">{t("directors_names")}</p>
+        <div className="max-w-4xl mx-auto px-6 text-center mb-16">
+          <p className="text-gray-600 text-lg leading-relaxed">{t("body")}</p>
+        </div>
+
+        {/* Directors */}
+        <div className="max-w-3xl mx-auto px-6">
+          <h2 className="text-2xl font-bold text-[#0a1628] text-center mb-10">{t("directors")}</h2>
+          <div className="grid md:grid-cols-2 gap-8">
+            {[
+              { name: "Siegfried Weindok", photo: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80" },
+              { name: "Łukasz Żurek", photo: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80" },
+            ].map((d) => (
+              <div key={d.name} className="bg-gray-50 rounded-2xl overflow-hidden border border-gray-100">
+                <div className="h-64 overflow-hidden">
+                  <img src={d.photo} alt={d.name} className="w-full h-full object-cover object-top" />
+                </div>
+                <div className="p-6">
+                  <p className="font-bold text-[#0a1628] text-lg">{d.name}</p>
+                  <p className="text-amber-500 text-sm font-medium mt-1">{t("directors")}</p>
                 </div>
               </div>
-              <div className="flex items-start gap-4 p-4 bg-gray-50 rounded-xl">
-                <svg className="w-6 h-6 text-amber-400 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                </svg>
-                <div>
-                  <p className="text-xs text-gray-400 uppercase tracking-wide mb-1">Standort</p>
-                  <p className="font-semibold text-[#0a1628]">{t("location")}</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="rounded-2xl overflow-hidden">
-            <img
-              src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80"
-              alt="Railway electrification team"
-              className="w-full h-96 object-cover"
-            />
+            ))}
           </div>
         </div>
       </section>

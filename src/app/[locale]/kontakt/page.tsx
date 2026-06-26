@@ -20,6 +20,25 @@ function ContactContent() {
       <section className="py-24 px-6">
         <ContactForm />
       </section>
+
+      {/* Google Maps */}
+      <section className="pb-24 px-6">
+        <div className="max-w-5xl mx-auto">
+          <h2 className="text-2xl font-bold text-[#0a1628] mb-6">Standort</h2>
+          <div className="rounded-2xl overflow-hidden border border-gray-100 shadow-sm h-96">
+            <iframe
+              src="https://www.google.com/maps?q=Valeska-Gert-Stra%C3%9Fe+1,+10243+Berlin&output=embed&hl=de"
+              width="100%"
+              height="100%"
+              style={{ border: 0 }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              title="PORR OLA GmbH Standort"
+            />
+          </div>
+        </div>
+      </section>
     </div>
   );
 }

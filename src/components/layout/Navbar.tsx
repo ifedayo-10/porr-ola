@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { useTranslations, useLocale } from "next-intl";
 import { Link, usePathname } from "@/i18n/navigation";
+import PorrOlaLogo from "@/components/PorrOlaLogo";
 
 export default function Navbar() {
   const t = useTranslations("nav");
@@ -10,6 +11,7 @@ export default function Navbar() {
   const pathname = usePathname();
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
+  const isHome = pathname === "/";
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 20);
@@ -29,17 +31,15 @@ export default function Navbar() {
   return (
     <header
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        scrolled || menuOpen
+        !isHome || scrolled || menuOpen
           ? "bg-[#0a1628] shadow-lg"
           : "bg-transparent"
       }`}
     >
       <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
-          <span className="text-white font-bold text-xl tracking-tight">
-            PORR OLA
-          </span>
-          <span className="text-amber-400 font-bold text-xl">GmbH</span>
+          <PorrOlaLogo className="h-10 w-auto" />
+          <span className="text-white/70 font-medium text-sm hidden sm:block">GmbH</span>
         </Link>
 
         {/* Desktop nav */}

@@ -13,12 +13,12 @@
     "cta_contact": "Kontakt aufnehmen"
   },
   "stats": {
-    "title1": "PQ-Zertifikate",
-    "value1": "2",
-    "title2": "Spannung",
+    "title1": "PQ Zertifiziert",
+    "value1": "✓",
+    "title2": "Nennspannung",
     "value2": "15 kV",
-    "title3": "Standort",
-    "value3": "Berlin"
+    "title3": "Gültig bis",
+    "value3": "2028"
   },
   "services_overview": {
     "title": "Unsere Leistungen",

@@ -1,5 +1,6 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
+import PorrOlaLogo from "@/components/PorrOlaLogo";
 
 export default function Footer() {
   const t = useTranslations("footer");
@@ -10,9 +11,9 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 py-16 grid grid-cols-1 md:grid-cols-3 gap-12">
         {/* Brand */}
         <div>
-          <div className="flex items-center gap-1 mb-3">
-            <span className="text-white font-bold text-lg">PORR OLA</span>
-            <span className="text-amber-400 font-bold text-lg">GmbH</span>
+          <div className="flex items-center gap-2 mb-3">
+            <PorrOlaLogo className="h-10 w-auto" />
+            <span className="text-white/60 font-medium text-sm">GmbH</span>
           </div>
           <p className="text-sm leading-relaxed">{t("tagline")}</p>
         </div>

@@ -12,8 +12,8 @@ export default function Hero() {
       {/* Background */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=1920&q=80"
-          alt="Railway infrastructure"
+          src="https://images.unsplash.com/photo-1474487548417-781cb6d646b3?w=1920&q=80"
+          alt="Oberleitungsanlage Schiene"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-[#0a1628]/75" />

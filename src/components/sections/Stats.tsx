@@ -7,7 +7,7 @@ export default function Stats() {
   const t = useTranslations("stats");
 
   const items = [
-    { value: t("value1"), label: t("title1") },
+    { value: "✓", label: t("title1") },
     { value: t("value2"), label: t("title2") },
     { value: t("value3"), label: t("title3") },
   ];

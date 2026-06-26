@@ -14,6 +14,10 @@ export const metadata: Metadata = {
   title: "PORR OLA GmbH – Oberleitungsanlagen",
   description:
     "Planung und Errichtung von 15-kV-Oberleitungsanlagen – PQ-zertifiziert, zuverlässig, zukunftsorientiert.",
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+  },
 };
 
 export default async function LocaleLayout({
